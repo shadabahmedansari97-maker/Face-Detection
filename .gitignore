@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.onnx
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+data/images/
+*.DS_Store
